@@ -1,13 +1,13 @@
 import React from 'react';
-import {  ChakraProvider,Box,  theme, } from '@chakra-ui/react';
-import Crou from './Crou';
+import { ChakraProvider,  theme } from '@chakra-ui/react';
+import Navbar from './Component/Navbar';
+import AllRoutes from './Routes/AllRoutes';
 
 function App() {
   return (
     <ChakraProvider theme={theme}>
-      <Box textAlign="center" fontSize="xl" bg="black">
-       
-      </Box>
+      <Navbar></Navbar>
+      <AllRoutes></AllRoutes>
     </ChakraProvider>
   );
 }
