@@ -1,9 +1,23 @@
-import React from 'react'
+import React from 'react';
+import { useContext } from 'react';
+import CarouselFantasy from '../Component/CarouselFantasy';
+import MatchDetailCard from '../Component/MatchDetailCard';
+import { CricklyticsCompletedContext, CricklyticsLiveContext, CricklyticsUpcomingContext } from '../Context.jsx/CricklyticsContext';
 
 const Criclytics = () => {
-  return (
-    <div>Criclytics</div>
-  )
-}
+  const {upcoming, upcomingTitle} = useContext(CricklyticsUpcomingContext)
+  const {completed, completTitle} = useContext(CricklyticsCompletedContext)
+  const {live, liveTitle} = useContext(CricklyticsLiveContext)
 
-export default Criclytics
+  
+  return (
+    <div>
+      <CarouselFantasy></CarouselFantasy>
+      <MatchDetailCard data={upcoming} title={upcomingTitle}></MatchDetailCard>
+      <MatchDetailCard data={live} title={liveTitle}></MatchDetailCard>
+      <MatchDetailCard data={completed} title={completTitle}></MatchDetailCard>
+    </div>
+  );
+};
+
+export default Criclytics;

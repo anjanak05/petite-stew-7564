@@ -1,0 +1,161 @@
+{
+  "upcoming": [
+    {
+      "title": "Match-1 - Asia Cup 2022",
+      "img1": "https://images.cricket.com/teams/8_flag.png",
+      "img2": "https://images.cricket.com/teams/1188_flag.png",
+      "name1": "SL",
+      "name2": "AFG",
+      "btn": "27 Aug 2022, 7:30 PM"
+    },
+    {
+      "title": "Match-1 - Asia Cup 2022",
+      "img1": "https://images.cricket.com/teams/8_flag.png",
+      "img2": "https://images.cricket.com/teams/1188_flag.png",
+      "name1": "SL",
+      "name2": "AFG",
+      "btn": "27 Aug 2022, 7:30 PM"
+    }
+  ],
+
+  "live": [
+    {
+      "title": "2nd Test - South Africa tour of England, 2022",
+      "img1": "https://images.cricket.com/teams/7_flag.png",
+      "img2": "https://images.cricket.com/teams/3_flag.png",
+      "name1": "SA 151 (53.2)",
+      "name2": "ENG 111/3 (28.9)",
+      "btn": "ENG Won By 6 wickets"
+    },
+    {
+      "title": "2nd Test - South Africa tour of England, 2022",
+      "img1": "https://images.cricket.com/teams/2043_flag.png",
+      "img2": "https://images.cricket.com/teams/2042_flag.png",
+      "name1": "TRT 138/6 (20.0)",
+      "name2": "SOB",
+      "btn": "ENG Won By 6 wickets"
+    }
+  ],
+
+  "Completed": [
+    {
+      "title": "Match 17 - The Hundred Women, 2022",
+      "img1": "https://images.cricket.com/teams/7_flag.png",
+      "img2": "https://images.cricket.com/teams/3_flag.png",
+      "name1": "SA 151 (53.2)",
+      "name2": "ENG 111/3 (28.9)",
+      "btn": "ENG Won By 6 wickets"
+    },
+    {
+      "title": "Qualifier 2 - Maharaja Trophy T20, 2022",
+      "img1": "https://images.cricket.com/teams/2043_flag.png",
+      "img2": "https://images.cricket.com/teams/2042_flag.png",
+      "name1": "TRT 138/6 (20.0)",
+      "name2": "SOB",
+      "btn": "GMY Won By 6 wickets"
+    }
+  ],
+
+  "upcomingFantasy": [
+    {
+      "title": "Match-1 - Asia Cup 2022",
+      "img1": "https://images.cricket.com/teams/2036_flag_safari.png",
+      "img2": "https://images.cricket.com/teams/2031_flag_safari.png",
+      "name1": "WEF-W",
+      "name2": "NOS-W",
+      "btn": "Starts in 17h 41m 47s ",
+      "date":"August 26 2022",
+      "place":"Cardiff"
+    },
+    {
+      "title": "Match 26, The Hundred, 2022",
+      "img1": "https://images.cricket.com/teams/7_flag.png",
+      "img2": "https://images.cricket.com/teams/1188_flag_safari.png",
+      "name1": "WEF",
+      "name2": "NOS",
+      "btn": "Starts in 17h 41m 47s ",
+      "date":"August 26 2022",
+      "place":"Cardiff"
+
+    },
+    {
+      "title": "Match 19, The Hundred Women, 2022",
+      "img1": "https://images.cricket.com/teams/2033_flag_safari.png",
+      "img2": "https://images.cricket.com/teams/2030_flag_safari.png",
+      "name1": "LNS-W",
+      "name2": "OVI-W",
+      "btn": "Starts in 17h 41m 47s ",
+      "date":"August 27 2022",
+      "place":"Dubai"
+    },
+    {
+      "title": "Match 1, Asia Cup, 2022",
+      "img1": "https://images.cricket.com/teams/8_flag.png",
+      "img2": "https://images.cricket.com/teams/1188_flag.png",
+      "name1": "SL",
+      "name2": "AFG",
+      "btn": "Starts in 17h 41m 47s ",
+      "date":"August 27 2022",
+      "place":"London"
+
+    },
+    {
+      "title": "Match 27, The Hundred, 2022",
+      "img1": "https://images.cricket.com/teams/2030_flag_safari.png",
+      "img2": "https://images.cricket.com/teams/2033_flag_safari.png",
+      "name1": "LNS",
+      "name2": "OVI",
+      "btn": "Starts in 17h 41m 47s ",
+      "date":"August 27 2022",
+      "place":"London"
+
+    }
+  ],
+
+  "liveFantasy": [
+    {
+      "title": "2nd Test - South Africa tour of England, 2022",
+      "img1": "https://images.cricket.com/teams/7_flag.png",
+      "img2": "https://images.cricket.com/teams/3_flag.png",
+      "name1": "SA ",
+      "name2": "ENG "
+    }
+  ],
+
+  "CompletedFantasy": [
+    {
+      "title": "Match 25, The Hundred, 2022",
+      "img1": "https://images.cricket.com/teams/7_flag.png",
+      "img2": "https://images.cricket.com/teams/3_flag.png",
+      "name1": "SOB",
+      "name2": "TRT",
+      "btn": "SOB Won By 6 wickets"
+    },
+    {
+      "title": "Match 17, The Hundred Women, 2022",
+      "img1": "https://images.cricket.com/teams/2043_flag.png",
+      "img2": "https://images.cricket.com/teams/2042_flag.png",
+      "name1": "TRT-W ",
+      "name2": "SOB-W",
+      "btn": "SOB-W Won By 6 wickets"
+    },
+    {
+      "title": "Match 25, The Hundred, 2022",
+      "img1": "https://images.cricket.com/teams/7_flag.png",
+      "img2": "https://images.cricket.com/teams/3_flag.png",
+      "name1": "LNS",
+      "name2": "WEF",
+      "btn": "LNS Won By 6 wickets"
+    },
+    {
+      "title": "Match 17, The Hundred Women, 2022",
+      "img1": "https://images.cricket.com/teams/2043_flag.png",
+      "img2": "https://images.cricket.com/teams/2042_flag.png",
+      "name1": "LNS-W",
+      "name2": "WEF-W",
+      "btn": "LNS-W Won By 6 wickets"
+    }
+  ]
+  
+
+}

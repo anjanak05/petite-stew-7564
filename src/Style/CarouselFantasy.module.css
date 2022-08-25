@@ -1,0 +1,13 @@
+.carouselContainer{
+    width: 67%;
+    height: 180px;
+   border:1px solid red;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 0.2%;
+    margin-bottom: 1%;
+}
+.carouselimage{
+    border-radius: 10px;
+    height: 180px;
+}

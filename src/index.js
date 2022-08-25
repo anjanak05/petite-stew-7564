@@ -6,14 +6,21 @@ import reportWebVitals from './reportWebVitals';
 import * as serviceWorker from './serviceWorker';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import { BrowserRouter } from 'react-router-dom';
+import { CricklyticsCompletedProvider, CricklyticsLiveProvider, CricklyticsUpcomingProvider } from './Context.jsx/CricklyticsContext';
 const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
 
 root.render(
+  <CricklyticsUpcomingProvider>
+    <CricklyticsLiveProvider>
+      <CricklyticsCompletedProvider>
   <BrowserRouter>
     <ColorModeScript />
     <App />
   </BrowserRouter>
+  </CricklyticsCompletedProvider>
+    </CricklyticsLiveProvider>
+  </CricklyticsUpcomingProvider>
 );
 
 // If you want your app to work offline and load faster, you can change
