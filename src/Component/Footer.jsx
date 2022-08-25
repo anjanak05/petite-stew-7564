@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
-    <div className={styles.container}>
+    <div className={styles.containerFooter}>
       <div className={styles.mainDiv}>
       <div>
         <img

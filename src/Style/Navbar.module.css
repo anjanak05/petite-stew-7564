@@ -1,3 +1,4 @@
+
 .container {
   background-color: black;
   height: 78px;
@@ -8,9 +9,9 @@
 
 .container > div {
   display: flex;
-  color: #b9bcc1;
+  color: white;
   font-family: Open-sans, Roboto;
-  width: 67%;
+  width: 69%;
   height: 100%;
   margin: auto;
   /* border: 1px solid red; */
@@ -25,19 +26,20 @@
 }
 
 .navlink > div {
-  /* background-color: brown; */
+  /* background-color: brown;
+  border:1px solid white; */
   height: 100%;
   width: 100%;
-  margin-right: 2%;
-  padding: 20px 12px 20px 20px;
+  margin-right: 5%;
+  padding: 20px 24px 20px 20px;
 }
 
 
 .navlink > div:hover {
   background-color: rgb(52, 53, 53);
-  color: #b9bcc1;
-  border-bottom: 4px solid rgb(248, 60, 14);
-}
+   border-bottom: 4px solid rgb(248, 60, 14);
+color:white;
+  }
 /* 
   .active{
     border: 1px solid white;
@@ -64,6 +66,6 @@
 
 .menuBar > img {
   height: 20px;
-  margin-top: 30%;
+  margin-top: 38%;
   margin-left: 18%;
 }

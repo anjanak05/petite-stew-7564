@@ -89,14 +89,14 @@ const Navbar = () => {
         <img className={styles.crickLogo} src="https://www.cricket.com/cricket.com.svg" alt ="logosvg"/>
         {links.map(item => (
           <div className={styles.linkDiv}>
-            <NavLink to={item.to} className={styles.navlink}>
+            <NavLink to={item.to} className={styles.navlink}  >
               <div>
                 <img
                   className={styles.linkLogo}
                   src={item.linkLogo}
                   alt="logoLinks"
                 ></img>
-                <p>{item.name}</p>
+                <p style={{color:"white"}}>{item.name}</p>
               </div>
             </NavLink>
           </div>
