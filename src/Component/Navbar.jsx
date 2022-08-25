@@ -13,7 +13,7 @@ import {
 
 const links = [
   {
-    to: '/Fantasy',
+    to: '/',
     name: 'Fantasy Center',
     linkLogo: 'https://www.cricket.com/svgs/icons/frc.svg',
   },
