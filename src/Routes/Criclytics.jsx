@@ -2,7 +2,7 @@ import React from 'react';
 import { useContext } from 'react';
 import CarouselFantasy from '../Component/CarouselFantasy';
 import MatchDetailCard from '../Component/MatchDetailCard';
-import { CricklyticsCompletedContext, CricklyticsLiveContext, CricklyticsUpcomingContext } from '../Context.jsx/CricklyticsContext';
+import { CricklyticsCompletedContext, CricklyticsLiveContext, CricklyticsUpcomingContext } from '../Context/CricklyticsContext';
 
 const Criclytics = () => {
   const {upcoming, upcomingTitle} = useContext(CricklyticsUpcomingContext)

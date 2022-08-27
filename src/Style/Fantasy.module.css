@@ -1,6 +1,8 @@
 .fantasyContainer{
     width: 67%;
+    height: auto;
     margin: auto;
+    padding-bottom: 2%;
     margin-top: 0.2%;
     background-color: black;
 }

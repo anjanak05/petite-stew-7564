@@ -5,6 +5,11 @@
   margin: auto;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
+.cardMacth > div:hover{
+  width: 47%;
+  margin: 6px;
+  height: 170px;
+}
 .blueHeading {
   height: 55px;
   width: 100%;

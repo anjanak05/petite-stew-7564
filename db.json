@@ -64,8 +64,8 @@
       "name1": "WEF-W",
       "name2": "NOS-W",
       "btn": "Starts in 17h 41m 47s ",
-      "date":"August 26 2022",
-      "place":"Cardiff"
+      "date": "August 26 2022",
+      "place": "Cardiff"
     },
     {
       "title": "Match 26, The Hundred, 2022",
@@ -74,9 +74,8 @@
       "name1": "WEF",
       "name2": "NOS",
       "btn": "Starts in 17h 41m 47s ",
-      "date":"August 26 2022",
-      "place":"Cardiff"
-
+      "date": "August 26 2022",
+      "place": "Cardiff"
     },
     {
       "title": "Match 19, The Hundred Women, 2022",
@@ -85,8 +84,8 @@
       "name1": "LNS-W",
       "name2": "OVI-W",
       "btn": "Starts in 17h 41m 47s ",
-      "date":"August 27 2022",
-      "place":"Dubai"
+      "date": "August 27 2022",
+      "place": "Dubai"
     },
     {
       "title": "Match 1, Asia Cup, 2022",
@@ -95,9 +94,8 @@
       "name1": "SL",
       "name2": "AFG",
       "btn": "Starts in 17h 41m 47s ",
-      "date":"August 27 2022",
-      "place":"London"
-
+      "date": "August 27 2022",
+      "place": "London"
     },
     {
       "title": "Match 27, The Hundred, 2022",
@@ -106,9 +104,8 @@
       "name1": "LNS",
       "name2": "OVI",
       "btn": "Starts in 17h 41m 47s ",
-      "date":"August 27 2022",
-      "place":"London"
-
+      "date": "August 27 2022",
+      "place": "London"
     }
   ],
 
@@ -155,7 +152,44 @@
       "name2": "WEF-W",
       "btn": "LNS-W Won By 6 wickets"
     }
-  ]
-  
+  ],
 
+  "fantasyPreview": [
+    {
+      "image": "https://images-cricketcom.imgix.net/news-1661337129569",
+      "title": "Fantasy: Bank on Root, Rabada and Anderson to deliver",
+      "para": "Here are a few tips that could help you create your fantasy XI for the",
+      "credit": "cricket.com staff",
+      "date": "24 Aug 2022"
+    },
+    {
+      "image": "https://images-cricketcom.imgix.net/news-1661091020805",
+      "title": "Fantasy: Finn Allen and bowlers to shine again?",
+      "para": "Here are a few tips that could help you create your fantasy XI for the",
+      "credit": "cricket.com staff",
+      "date": "21 Aug 2022"
+    }
+  ],
+  
+  "fantasyVideo": [
+    {
+      "image": "https://www.youtube.com/embed/mSdYz5kI7ks",
+      "para": "Kaun hogi aapki aaj ki fantasy picks? WI v IND, 4th T20I, Fantasy Preview | Cricket.com"
+    },
+    {
+      "image": "https://www.youtube.com/embed/OhlWDTNXnNA",
+      "para": "Bangladesh vs New Zealand, T20I series, Mirpur I Fantasy Research Centre I Cricket.com"
+    },
+    {
+      "image": "https://youtube.com/embed/JWWS4OIQDf8",
+      "para": "Kaun hogi aapki aaj ki fantasy picks? WI v IND, 4th T20I, Fantasy Preview | Cricket.com"
+    },
+    {
+      "image": "https://youtube.com/embed/VLW7Twv7S9E",
+      "para": "Bangladesh vs New Zealand, T20I series, Mirpur I Fantasy Research Centre I Cricket.com"
+    }
+  ]
 }
+
+
+

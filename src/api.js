@@ -21,3 +21,11 @@ export const getliveFantasyData =()=>{
 export const getCompledtedFantasyData =()=>{
     return axios (`http://localhost:9090/CompletedFantasy`)
 }
+
+export const getFantasyPreviewData =()=>{
+    return axios (`http://localhost:9090/fantasyPreview`)
+}
+
+export const getFantasyVideoData =()=>{
+    return axios (`http://localhost:9090/fantasyVideo`)
+}

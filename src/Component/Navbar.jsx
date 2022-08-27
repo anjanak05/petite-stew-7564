@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import styles from '../Style/Navbar.module.css';
 import { ChevronDownIcon } from '@chakra-ui/icons';
 import {
@@ -56,27 +56,27 @@ const links = [
 ];
 
 const logoLinks = [
-  {
+  { to:"/",
     image: 'https://www.cricket.com/svgs/icons/stadium-icon.svg',
     name: 'Stadiums',
   },
-  {
+  { to:"/",
     image: 'https://www.cricket.com/svgs/icons/rankings-icon.svg',
     name: 'Rankings',
   },
-  {
+  { to:"/",
     image: 'https://www.cricket.com/svgs/GroupArchive.svg',
     name: 'Archives',
   },
-  {
+  { to:"/",
     image: 'https://www.cricket.com/svgs/icons/records-icon.svg',
     name: 'Records',
   },
-  {
+  { to:"/",
     image: 'https://www.cricket.com/svgs/fantasynav.svg',
     name: 'Season Fantasy',
   },
-  {
+  { to:"/Profile",
     image: 'https://www.cricket.com/svgs/icons/profile.svg',
     name: 'Profile',
   },
@@ -128,7 +128,8 @@ const Navbar = () => {
                     alt="Fluffybuns the destroyer"
                     mr="10px"
                   />
-                  <span>{e.name}</span>
+                  
+                    <Link to={e.to}>{e.name}</Link>
                 </MenuItem>
               ))}
             </MenuList>
