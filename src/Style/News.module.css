@@ -1,0 +1,66 @@
+.container {
+  width: 67%;
+  overflow: scroll;
+ /* border: 1px solid red; */
+  height: 780px;
+  background-color: white;
+  margin: auto;
+}
+.backGroundNews {
+  background-color: #e8e9ef;
+   
+}
+
+.btnDiv {
+  margin-left: 16.5%;
+  margin-bottom: 0.5%;
+}
+
+.btn {
+  margin-right: 1%;
+  width: 10.5%;
+}
+
+.btn:focus{
+    background-image: linear-gradient(270deg, rgb(212, 64, 48), rgb(155, 0, 13));
+    color: white;
+    border:#e8e9ef
+}
+.stickry{
+    position: -webkit-sticky; 
+    position: sticky;   
+    padding-bottom: 0.5%;
+    padding-top: 1%;
+    background-color:#e8e9ef;
+    /* border: 1px solid red; */
+}
+
+.mainDetailDiv{
+    display: flex;
+}
+
+.mainDetailDiv{
+    width: 100%;
+    height: 250px;
+
+}
+.mainDetailDiv>div{
+    width: 50%;
+    pad: 20px;
+    padding: 10px;
+    border-top: 1px solid rgb(242, 236, 236);
+    /* border: 1px solid red; */
+}
+
+.mainDetailDiv>div>img{
+    width: 100%;
+    height:220px;
+}
+
+.mainDetailDiv>div>p{
+    margin-bottom: 2%;
+}
+
+.mainDetailDiv>div:hover{
+  color: black;
+}

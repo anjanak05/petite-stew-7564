@@ -11,7 +11,7 @@ const Criclytics = () => {
 
   
   return (
-    <div>
+    <div style={{backgroundColor:"#e8e9ef"}}>
       <CarouselFantasy></CarouselFantasy>
       <MatchDetailCard data={upcoming} title={upcomingTitle}></MatchDetailCard>
       <MatchDetailCard data={live} title={liveTitle}></MatchDetailCard>

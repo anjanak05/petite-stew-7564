@@ -8,10 +8,12 @@ import styles from '../Style/Fantasy.module.css';
 
 const Fantasy = () => {
   return (
+    <div style={{backgroundColor:"#e8e9ef"}}>
     <div className={styles.fantasyContainer}>
       <div className={styles.titleDiv}>
         <p>FANTASY CENTRE</p>
       </div>
+      
       <p className={styles.title}> UPCOMING MATCHES</p>
       <FantasyUpcomingCard></FantasyUpcomingCard>
       <p className={styles.title}> LIVE MATCHES</p>
@@ -21,6 +23,7 @@ const Fantasy = () => {
       <FantasyPreview></FantasyPreview>
       <FantasyVideo></FantasyVideo>
       {/* <iframe width="977" height="384" src="https://www.youtube.com/embed/VLW7Twv7S9E" title="Kaun hogi aapki aaj ki fantasy picks? WI v IND, 3rd T20I, Fantasy Preview | Cricket.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+    </div>
     </div>
   );
 };

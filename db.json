@@ -170,26 +170,260 @@
       "date": "21 Aug 2022"
     }
   ],
-  
+
   "fantasyVideo": [
     {
+      "id": 1,
       "image": "https://www.youtube.com/embed/mSdYz5kI7ks",
       "para": "Kaun hogi aapki aaj ki fantasy picks? WI v IND, 4th T20I, Fantasy Preview | Cricket.com"
     },
     {
+      "id": 2,
       "image": "https://www.youtube.com/embed/OhlWDTNXnNA",
       "para": "Bangladesh vs New Zealand, T20I series, Mirpur I Fantasy Research Centre I Cricket.com"
     },
     {
+      "id": 3,
       "image": "https://youtube.com/embed/JWWS4OIQDf8",
       "para": "Kaun hogi aapki aaj ki fantasy picks? WI v IND, 4th T20I, Fantasy Preview | Cricket.com"
     },
     {
+      "id": 4,
       "image": "https://youtube.com/embed/VLW7Twv7S9E",
       "para": "Bangladesh vs New Zealand, T20I series, Mirpur I Fantasy Research Centre I Cricket.com"
     }
+  ],
+
+
+
+  "news": [
+    { "id":1,
+      "image": "https://images-cricketcom.imgix.net/news-1661660470110?auto=compress&dpr=2&w=1&h=200",
+      "title": "Rahul Dravid set to join the team ahead of Pakistan clash",
+      "heading": "The Head Coach has recovered after testing positive for Covid-19 ahead of the team's departure",
+      "description": [
+        {
+          "new1": "The Men in Blue are set to receive a massive boost ahead of their high-voltage clash against Pakistan as Rahul Dravid has tested negative and will join the team in their opening clash."
+        },
+        {
+          "new1": "After taking a break during India's away series against Zimbabwe, Dravid was expected to be in charge of the proceedings in the Asia Cup. However, the former Indian skipper tested positive for Covid-19 ahead of the team's departure."
+        },
+
+        {
+          "new1": "BCCI announced that VVS Laxman, who was the Head Coach for the Zimbabwe series, would be the interim coach of the side and help the team in their preparations for the competition. "
+        },
+
+        {
+          "new1": "The BCCI stated that Dravid would join the team once he tests negative, and the 49-year-old has indeed made a quick recovery to be just in time for the team's most-awaited clash."
+        },
+        {
+          "new1": "India enter the tournament as the defending champions and will kickstart their campaign against Pakistan on Sunday, August 28, followed by Hong Kong in their second league game on Wednesday, August 31."
+        }
+      ]
+    },
+    { "id":"2",
+      "image": "https://images-cricketcom.imgix.net/news-1661658875706?auto=compress&dpr=2&fit=clip&w=976&h=400",
+      "title": "Stokes hails 'benchmark' win as England level South Africa series",
+      "heading": "The hosts, led by skipper Ben Stokes produced an all-around performance to dismantle South Africa by an innings and 85 runs to level the series",
+      "description": [
+        {
+          "new1": "England captain Ben Stokes said his team had produced a benchmark win after overwhelming South Africa by an innings and 85 runs in the second Test at Old Trafford on Saturday."
+        },
+        {
+          "new1": "With a win in three days, England level the three-match series at 1-1, following South Africa almost as dominant innings and 12-run triumph at Lord's last week."
+        },
+
+        {
+          "new1": "In the six matches that Stokes has been at the helm, England have won five games, with the home team showcasing their batting prowess to set up the win by taking a formidable first-innings lead. "
+        },
+
+        {
+          "new1": "Stokes's men were on top from the start in Manchester, reducing South Africa to 77-5 before lunch on the first day after Proteas skipper Dean Elgar almost obliged to bat first after winning the toss, having included a second spinner, Simon Harmer."
+        },
+        {
+          "new1": "The Proteas were eventually dismissed for a meagre 151 in their first innings. England then made 415-9 declared, featuring all-rounder Stokes's 103 - his first Test century as England captain and wicketkeeper Ben Foakes's Test-best of an unbeaten 113.          "
+        },
+        {
+          "new1": "England's veteran seamer, James Anderson, at the age of 40, returned with figures of six for 62 on his home turf and surpassed Australia's Glenn McGrath as the most successful paceman across all international formats with an ongoing tally of 951 wickets."
+        },
+        {
+          "new1": "Stokes was in awe of his teammate and showered praises on his pacer by saying, He's a testament to himself and a great ambassador for the game. I said before this game started that I honestly can't see when he's going to stop."
+        },
+        {
+          "new1": "On the other hand, South Africa have plenty to ponder after entering this clash as the table toppers in the World Test Championship. While the middle-order has been a cause of concern for them in the recent past, Elgar said they had to do more to support an undoubtedly world-class pace attack ahead of the series decider at the Oval in a fortnight."
+        }
+      ]
+    },
+    { "id":"3",
+      "image": "https://images-cricketcom.imgix.net/news-1661655025608?auto=compress&dpr=2&w=1&h=200",
+      "title": "Shaheen’s absence, Babar against Chahal and Jadeja and more",
+      "heading": "Key battles, match-ups, and tactical ploys against players from Match 2 of Asia Cup 2022, between India and Pakistan in Dubai.",
+      "description": [
+        {
+          "new1": "The Men in Blue are set to receive a massive boost ahead of their high-voltage clash against Pakistan as Rahul Dravid has tested negative and will join the team in their opening clash."
+        },
+        {
+          "new1": "After taking a break during India's away series against Zimbabwe, Dravid was expected to be in charge of the proceedings in the Asia Cup. However, the former Indian skipper tested positive for Covid-19 ahead of the team's departure."
+        },
+
+        {
+          "new1": "BCCI announced that VVS Laxman, who was the Head Coach for the Zimbabwe series, would be the interim coach of the side and help the team in their preparations for the competition. "
+        },
+
+        {
+          "new1": "The BCCI stated that Dravid would join the team once he tests negative, and the 49-year-old has indeed made a quick recovery to be just in time for the team's most-awaited clash."
+        },
+        {
+          "new1": "India enter the tournament as the defending champions and will kickstart their campaign against Pakistan on Sunday, August 28, followed by Hong Kong in their second league game on Wednesday, August 31."
+        }
+      ]
+    },
+    { "id":"4",
+      "image": "https://images-cricketcom.imgix.net/news-1661629289757?auto=compress&dpr=2&w=1&h=200",
+      "title": "Fantasy: Run-machines are your point-machines",
+      "heading": "The hosts, led by skipper Ben Stokes produced an all-around performance to dismantle South Africa by an innings and 85 runs to level the series",
+      "description": [
+        {
+          "new1": "England captain Ben Stokes said his team had produced a benchmark win after overwhelming South Africa by an innings and 85 runs in the second Test at Old Trafford on Saturday."
+        },
+        {
+          "new1": "With a win in three days, England level the three-match series at 1-1, following South Africa almost as dominant innings and 12-run triumph at Lord's last week."
+        },
+
+        {
+          "new1": "In the six matches that Stokes has been at the helm, England have won five games, with the home team showcasing their batting prowess to set up the win by taking a formidable first-innings lead. "
+        },
+
+        {
+          "new1": "Stokes's men were on top from the start in Manchester, reducing South Africa to 77-5 before lunch on the first day after Proteas skipper Dean Elgar almost obliged to bat first after winning the toss, having included a second spinner, Simon Harmer."
+        },
+        {
+          "new1": "The Proteas were eventually dismissed for a meagre 151 in their first innings. England then made 415-9 declared, featuring all-rounder Stokes's 103 - his first Test century as England captain and wicketkeeper Ben Foakes's Test-best of an unbeaten 113.          "
+        },
+        {
+          "new1": "England's veteran seamer, James Anderson, at the age of 40, returned with figures of six for 62 on his home turf and surpassed Australia's Glenn McGrath as the most successful paceman across all international formats with an ongoing tally of 951 wickets."
+        },
+        {
+          "new1": "Stokes was in awe of his teammate and showered praises on his pacer by saying, He's a testament to himself and a great ambassador for the game. I said before this game started that I honestly can't see when he's going to stop."
+        },
+        {
+          "new1": "On the other hand, South Africa have plenty to ponder after entering this clash as the table toppers in the World Test Championship. While the middle-order has been a cause of concern for them in the recent past, Elgar said they had to do more to support an undoubtedly world-class pace attack ahead of the series decider at the Oval in a fortnight."
+        }
+      ]
+    },
+    { "id":"5",
+      "image": "https://images-cricketcom.imgix.net/news-1661660470110?auto=compress&dpr=2&w=1&h=200",
+      "title": "Rahul Dravid set to join the team ahead of Pakistan clash",
+      "heading": "The Head Coach has recovered after testing positive for Covid-19 ahead of the team's departure",
+      "description": [
+        {
+          "new1": "The Men in Blue are set to receive a massive boost ahead of their high-voltage clash against Pakistan as Rahul Dravid has tested negative and will join the team in their opening clash."
+        },
+        {
+          "new1": "After taking a break during India's away series against Zimbabwe, Dravid was expected to be in charge of the proceedings in the Asia Cup. However, the former Indian skipper tested positive for Covid-19 ahead of the team's departure."
+        },
+
+        {
+          "new1": "BCCI announced that VVS Laxman, who was the Head Coach for the Zimbabwe series, would be the interim coach of the side and help the team in their preparations for the competition. "
+        },
+
+        {
+          "new1": "The BCCI stated that Dravid would join the team once he tests negative, and the 49-year-old has indeed made a quick recovery to be just in time for the team's most-awaited clash."
+        },
+        {
+          "new1": "India enter the tournament as the defending champions and will kickstart their campaign against Pakistan on Sunday, August 28, followed by Hong Kong in their second league game on Wednesday, August 31."
+        }
+      ]
+    },
+    { "id":"6",
+      "image": "https://images-cricketcom.imgix.net/news-1661658875706?auto=compress&dpr=2&fit=clip&w=976&h=400",
+      "title": "Stokes hails 'benchmark' win as England level South Africa series",
+      "heading": "The hosts, led by skipper Ben Stokes produced an all-around performance to dismantle South Africa by an innings and 85 runs to level the series",
+      "description": [
+        {
+          "new1": "England captain Ben Stokes said his team had produced a benchmark win after overwhelming South Africa by an innings and 85 runs in the second Test at Old Trafford on Saturday."
+        },
+        {
+          "new1": "With a win in three days, England level the three-match series at 1-1, following South Africa almost as dominant innings and 12-run triumph at Lord's last week."
+        },
+
+        {
+          "new1": "In the six matches that Stokes has been at the helm, England have won five games, with the home team showcasing their batting prowess to set up the win by taking a formidable first-innings lead. "
+        },
+
+        {
+          "new1": "Stokes's men were on top from the start in Manchester, reducing South Africa to 77-5 before lunch on the first day after Proteas skipper Dean Elgar almost obliged to bat first after winning the toss, having included a second spinner, Simon Harmer."
+        },
+        {
+          "new1": "The Proteas were eventually dismissed for a meagre 151 in their first innings. England then made 415-9 declared, featuring all-rounder Stokes's 103 - his first Test century as England captain and wicketkeeper Ben Foakes's Test-best of an unbeaten 113.          "
+        },
+        {
+          "new1": "England's veteran seamer, James Anderson, at the age of 40, returned with figures of six for 62 on his home turf and surpassed Australia's Glenn McGrath as the most successful paceman across all international formats with an ongoing tally of 951 wickets."
+        },
+        {
+          "new1": "Stokes was in awe of his teammate and showered praises on his pacer by saying, He's a testament to himself and a great ambassador for the game. I said before this game started that I honestly can't see when he's going to stop."
+        },
+        {
+          "new1": "On the other hand, South Africa have plenty to ponder after entering this clash as the table toppers in the World Test Championship. While the middle-order has been a cause of concern for them in the recent past, Elgar said they had to do more to support an undoubtedly world-class pace attack ahead of the series decider at the Oval in a fortnight."
+        }
+      ]
+    },
+    { "id":"7",
+      "image": "https://images-cricketcom.imgix.net/news-1661655025608?auto=compress&dpr=2&w=1&h=200",
+      "title": "Shaheen’s absence, Babar against Chahal and Jadeja and more",
+      "heading": "Key battles, match-ups, and tactical ploys against players from Match 2 of Asia Cup 2022, between India and Pakistan in Dubai.",
+      "description": [
+        {
+          "new1": "The Men in Blue are set to receive a massive boost ahead of their high-voltage clash against Pakistan as Rahul Dravid has tested negative and will join the team in their opening clash."
+        },
+        {
+          "new1": "After taking a break during India's away series against Zimbabwe, Dravid was expected to be in charge of the proceedings in the Asia Cup. However, the former Indian skipper tested positive for Covid-19 ahead of the team's departure."
+        },
+
+        {
+          "new1": "BCCI announced that VVS Laxman, who was the Head Coach for the Zimbabwe series, would be the interim coach of the side and help the team in their preparations for the competition. "
+        },
+
+        {
+          "new1": "The BCCI stated that Dravid would join the team once he tests negative, and the 49-year-old has indeed made a quick recovery to be just in time for the team's most-awaited clash."
+        },
+        {
+          "new1": "India enter the tournament as the defending champions and will kickstart their campaign against Pakistan on Sunday, August 28, followed by Hong Kong in their second league game on Wednesday, August 31."
+        }
+      ]
+    },
+    { "id":"8",
+      "image": "https://images-cricketcom.imgix.net/news-1661629289757?auto=compress&dpr=2&w=1&h=200",
+      "title": "Fantasy: Run-machines are your point-machines",
+      "heading": "The hosts, led by skipper Ben Stokes produced an all-around performance to dismantle South Africa by an innings and 85 runs to level the series",
+      "description": [
+        {
+          "new1": "England captain Ben Stokes said his team had produced a benchmark win after overwhelming South Africa by an innings and 85 runs in the second Test at Old Trafford on Saturday."
+        },
+        {
+          "new1": "With a win in three days, England level the three-match series at 1-1, following South Africa almost as dominant innings and 12-run triumph at Lord's last week."
+        },
+
+        {
+          "new1": "In the six matches that Stokes has been at the helm, England have won five games, with the home team showcasing their batting prowess to set up the win by taking a formidable first-innings lead. "
+        },
+
+        {
+          "new1": "Stokes's men were on top from the start in Manchester, reducing South Africa to 77-5 before lunch on the first day after Proteas skipper Dean Elgar almost obliged to bat first after winning the toss, having included a second spinner, Simon Harmer."
+        },
+        {
+          "new1": "The Proteas were eventually dismissed for a meagre 151 in their first innings. England then made 415-9 declared, featuring all-rounder Stokes's 103 - his first Test century as England captain and wicketkeeper Ben Foakes's Test-best of an unbeaten 113.          "
+        },
+        {
+          "new1": "England's veteran seamer, James Anderson, at the age of 40, returned with figures of six for 62 on his home turf and surpassed Australia's Glenn McGrath as the most successful paceman across all international formats with an ongoing tally of 951 wickets."
+        },
+        {
+          "new1": "Stokes was in awe of his teammate and showered praises on his pacer by saying, He's a testament to himself and a great ambassador for the game. I said before this game started that I honestly can't see when he's going to stop."
+        },
+        {
+          "new1": "On the other hand, South Africa have plenty to ponder after entering this clash as the table toppers in the World Test Championship. While the middle-order has been a cause of concern for them in the recent past, Elgar said they had to do more to support an undoubtedly world-class pace attack ahead of the series decider at the Oval in a fortnight."
+        }
+      ]
+    }
   ]
 }
-
-
-

@@ -12,6 +12,7 @@ import Login from "../Routes/Login"
 import  PrivateRoute  from '../Component/PrivateRoute';
 import Profile from './Profile';
 import AlertLogin from '../Component/AlertLogin';
+import SinlgeNewsPage from './SinlgeNewsPage';
 
 
 const AllRoutes = () => {
@@ -23,6 +24,7 @@ const AllRoutes = () => {
         <Route path="/Schedule" element={ <PrivateRoute> <Schedule />   </PrivateRoute>}></Route>
         <Route path="/Series" element={ <PrivateRoute> <Series />   </PrivateRoute>}></Route>
         <Route path="/News" element={ <PrivateRoute> <News />   </PrivateRoute>}></Route>
+        <Route path="/News/:id" element={ <PrivateRoute> <SinlgeNewsPage/></PrivateRoute>}></Route>
         <Route path="/Videos" element={ <PrivateRoute> <Videos />   </PrivateRoute>}></Route>
         <Route path="/Players" element={ <PrivateRoute> <Players />   </PrivateRoute>}></Route>
         <Route path="/Teams" element={ <PrivateRoute> <Teams />   </PrivateRoute>}></Route>

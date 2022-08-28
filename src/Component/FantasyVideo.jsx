@@ -2,6 +2,9 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import styles from '../Style/FantasyVideo.module.css';
 import { getFantasyVideoData } from '../api';
+
+
+
 const FantasyVideo = () => {
   const [fVideo, setFVideo] = useState([]);
   console.log('epre', fVideo);
@@ -22,20 +25,23 @@ const FantasyVideo = () => {
 
   return (
     <div className={styles.previewContainer}>
-      <div className={styles.titlePreview}>FANTASY PREVIEWS</div>
+    <div className={styles.titlePreview}>FANTASY VIDEOS</div>
       <div>
         {fVideo?.map(e => (
           <div className={styles.mainDiv}>
             {/* <img className={styles.image} src={e.image} alt="newsimage"></img */}
+            
+            {/* <Link to={`/Fantasy/${e.id}`}> */}
             <iframe width="230"
              height="200"
              className={styles.image}
               src={e.image}
                title={e.para} 
                frameborder="-10"
-                // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen></iframe>
                 <p>{e.para}</p>
+                {/* </Link> */}
           </div>
         ))}
       </div>

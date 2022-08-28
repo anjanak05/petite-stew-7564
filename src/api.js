@@ -29,3 +29,11 @@ export const getFantasyPreviewData =()=>{
 export const getFantasyVideoData =()=>{
     return axios (`http://localhost:9090/fantasyVideo`)
 }
+
+export const getNewsData =()=>{
+    return axios (`http://localhost:9090/news`)
+}
+
+export const getSingleNewsData =(id)=>{
+    return axios (`http://localhost:9090/news/${id}`)
+}
