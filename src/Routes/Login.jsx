@@ -12,8 +12,8 @@ import { AuthContext } from '../Context/AuthContext';
 
 function Login() {
   const [formData, setFormData] = useState({
-    email: '',
-    password: '',
+    email: 'eve.holt@reqres.in',
+    password: 'cityslicka',
   });
 
   const navigate = useNavigate();
